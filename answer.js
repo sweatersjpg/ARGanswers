@@ -35,7 +35,7 @@ function Game() {
       if(i.correct) count++;
     }
     if(count == this.inputs.length) {
-      window.location.replace("https://sweaters.itch.io/ketris");
+      window.location.replace("https://www.notion.so/Congratulations-22d3b18f827642219c86a67e73715d1c");
       noLoop();
       // return;
     }
